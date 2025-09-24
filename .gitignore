@@ -1,0 +1,16 @@
+# git ignore for npm and nodejs projects on windows
+node_modules
+.DS_Store
+npm-debug.log
+yarn-error.log
+.env
+.vscode
+dist
+build
+.idea
+*.log
+*.tsbuildinfo
+.cache
+coverage
+*.local
+*.swp
